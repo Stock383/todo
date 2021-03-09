@@ -1,7 +1,7 @@
 {
   "type": "mysql",
   "host": "localhost",
-  "port": 2000,
+  "port": 3001,
   "username": "root",
   "password": "",
   "database": "todo",
